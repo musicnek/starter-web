@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Miguel Pastor	mpmonjas@indra.es	@vidknavs
 
 # THANKS
 
