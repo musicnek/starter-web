@@ -16,6 +16,8 @@ This is a simple website project deployment can be on any web server or even loc
 
 ## How To Contricute
 
+Please fork this repository and then issue Pull Requests for review.
+
 
 ## Copyright
 
