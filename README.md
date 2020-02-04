@@ -17,5 +17,9 @@ This is a simple website project deployment can be on any web server or even loc
 
 ## How To Contribute
 
-Please fork this repository and then issue Pull Requests
+Please fork this repository and then issue Pull Requests for
 
+
+## Copyright
+
+2014 Git. Training. All rights reserved.
