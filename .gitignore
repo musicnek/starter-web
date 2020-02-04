@@ -2,3 +2,4 @@
 .gitconfig
 npp
 log/
+*.orig
